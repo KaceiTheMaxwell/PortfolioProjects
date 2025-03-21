@@ -1,6 +1,10 @@
 /* 
-
+=============================================================================================================
 Nashville Housing Data: Data Cleaning
+=============================================================================================================
+
+Purpose:
+ - This project demonstrates a range of data cleaning techniques and considerations for the real estate industry.
 
 */
 
