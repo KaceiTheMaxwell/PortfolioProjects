@@ -1,11 +1,17 @@
+/* 
+=============================================================================================================
+Health Data: COVID-19
+=============================================================================================================
 
+Purpose:
+ - This project demonstrates simple data analysis of health data including creating tables and views
+
+*/
 
 -- covid vaccinations data
 --SELECT *
 --FROM PortfolioProject.dbo.CovidVax
 -- WHERE continent IS NOT NULL
-
--- video restart at 2:31:47
 
 -- Global covid deaths data
 SELECT location, date, population, total_cases, new_cases, total_deaths, new_deaths
